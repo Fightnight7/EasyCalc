@@ -1,0 +1,33 @@
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 45px;
+}
+
+div {
+    height: 40px;
+    width: 100%;
+    background-color: azure;
+    font-family: verdana;
+    font-size: 26px;
+    padding: 10px;
+}
+
+input {
+    font-family: verdana;
+    font-size: 18px;
+    width: 116px;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    font-family: verdana;
+    font-weight: bold; 
+}
