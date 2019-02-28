@@ -1,2 +1,2 @@
 # EasyCalc
-EasyCalculator
+EasyCalculator on JavaScript
